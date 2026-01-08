@@ -83,13 +83,19 @@ Mix two cocoa varieties so that their average sweetness is closest to a target v
 - File-based input handling
 
 📂 **Solution Directory:**  
-➡️ [`day02_two_pointers`](./day02_two_pointers)
+➡️ [`day02_two_pointers`](./day02_two_cocoa_varieties_whose_average_sweetness)
 
 📓 **Notebook / Script:**  
-➡️ [`solution.ipynb`](./day02_two_pointers/solution.ipynb)
+➡️ [`solution.ipynb`](./day02_two_cocoa_varieties_whose_average_sweetness/solution.ipynb)
 
 📄 **Detailed README:**  
-➡️ [`README.md`](./day02_two_pointers/README.md)
+➡️ [`README.md`](./day02_two_cocoa_varieties_whose_average_sweetness/README.md)
+
+### 🔐 Day 03 — Three Security Rules
+
+Evaluate and select the most secure password based on strict scoring rules.
+
+➡️ [`day03_three_security_rules`](./day03_three_security_rules)
 
 ---
 
@@ -105,7 +111,8 @@ Mix two cocoa varieties so that their average sweetness is closest to a target v
 
 - ✅ Day 01 completed
 - ✅ Day 02 completed
-- ⏳ Day 03–Day 12 in progress
+- ✅ Day 03 completed
+- ⏳ Day 04–Day 12 in progress
 
 ---
 
