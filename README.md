@@ -71,6 +71,26 @@ while excluding background noise.
 📄 **Detailed Explanation:**  
 ➡️ [`README.md`](./day01_a_nasty_bug_in_a_production_tree/README.md)
 
+### ☕ Day 02 — Two Pointers
+
+**Problem:**  
+Mix two cocoa varieties so that their average sweetness is closest to a target value.
+
+**Concepts Used:**
+
+- Two Pointers technique
+- Greedy optimization
+- File-based input handling
+
+📂 **Solution Directory:**  
+➡️ [`day02_two_pointers`](./day02_two_pointers)
+
+📓 **Notebook / Script:**  
+➡️ [`solution.ipynb`](./day02_two_pointers/solution.ipynb)
+
+📄 **Detailed README:**  
+➡️ [`README.md`](./day02_two_pointers/README.md)
+
 ---
 
 ## 🛠 Tools & Technologies
@@ -84,7 +104,8 @@ while excluding background noise.
 ## 🚀 Progress Tracker
 
 - ✅ Day 01 completed
-- ⏳ Day 02–Day 12 in progress
+- ✅ Day 02 completed
+- ⏳ Day 03–Day 12 in progress
 
 ---
 
